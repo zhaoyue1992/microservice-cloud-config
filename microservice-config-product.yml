@@ -1,5 +1,5 @@
 emp:
-  name: zhangsan
+  name: 李四
 #注意：如果在记事本上编写，下面的缩进不要使用Tab来缩进，不然报错
 spring:
   profiles:
